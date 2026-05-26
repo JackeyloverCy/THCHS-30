@@ -1,0 +1,2 @@
+数据集来源http://www.openslr.org/18
+数据集下载链接 https://openslr.trmal.net/resources/18/data_thchs30.tgz
